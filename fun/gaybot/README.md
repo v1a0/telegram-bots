@@ -29,7 +29,7 @@ Example:<br>
 
 To get list of most gayest users send 'whogay' or 'ктогей'.<br>
 Example:<br>
-<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/osujdau.png"
+<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/who.png"
     alt="example-screenshot"
     style="float: left;" />
     
@@ -45,7 +45,7 @@ Example:<br>
 Also you can "ОСУЖДАТЬ" (rus. lil. "condemn") some user, if you'll do, bot will notify all users in chat about that.<br>
 Example:<br>
 
-<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/who.png"
+<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/osujdau.png"
     alt="example-screenshot"
     style="float: left;" />
 
