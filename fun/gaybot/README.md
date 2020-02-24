@@ -19,6 +19,7 @@
  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗  ██╔██╗
 ██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗██╔╝ ██╗
 ```
+## About
 Funny bot to count Gay Points, then more some user using G-words then more G-point it have.<br>
 To get list of most gayest users send 'whogay' or 'ктогей'.<br>
 Examples: 
@@ -39,6 +40,9 @@ Example:
 <img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/who.png"
     alt="example-screenshot"
     style="float: left;" />
+
+# How to run
+Run bot.py
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
