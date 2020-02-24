@@ -21,17 +21,25 @@
 ```
 ## About
 Funny bot to count Gay Points, then more some user using G-words then more G-point it have.<br>
-To get list of most gayest users send 'whogay' or 'ктогей'.<br>
-Examples: 
-
+Examples:
 <img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/gay.png"
     alt="example-screenshot"
     style="float: left;" />
 
+
+To get list of most gayest users send 'whogay' or 'ктогей'.<br>
+Examples:
 <img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/osujdau.png"
     alt="example-screenshot"
     style="float: left;" />
-
+    
+    
+And also if you think somebody said or did something to gay, you can add him G-points absolutely for free!<br>
+Examples: 
+<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/fun/gaybot/pic/ug.png"
+    alt="example-screenshot"
+    style="float: left;" />
+    
 ---
 
 Also you can "ОСУЖДАТЬ" (rus. lil. "condemn") some user, if you'll do, bot will notify all users in chat about that.<br>
