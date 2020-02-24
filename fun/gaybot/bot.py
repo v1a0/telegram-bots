@@ -55,7 +55,8 @@ def auth(func):
 # /start and /help echos
 @dp.message_handler(commands=['start', 'help'])
 async def send_welcome(message: types.Message):
-    await message.reply("Hi!\nI'm EchoBot!\nPowered by aiogram.")
+    await message.reply("Hi! ❤️🧡💛💚💙💜\nI'm GayBot!\nRead README before use me! (It's not gay)"
+                        "\nlink: https://github.com/V1A0/Telegram-bots/blob/master/fun/gaybot/README.md")
 
 
 # Got any message script
