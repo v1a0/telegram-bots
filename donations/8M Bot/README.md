@@ -16,5 +16,11 @@ line 13| ADMIN_ID = ADMIN_ID = 12234567
 ```
 Run bot.py
 
+Screenshots:<br>
+<img src="https://raw.githubusercontent.com/V1A0/Telegram-bots/master/donations/8M%20Bot/pic_1.png"
+    alt="example-screenshot"
+    style="float: left;" />
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
