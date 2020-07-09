@@ -1,13 +1,13 @@
 # Telegram-bots
  Telegram Bots list by V1A0
 
-## 📖 Categories and Bots
+## 📖🤖 Categories and Bots
 
-  - [OSINT](#-OSINT)
+  - [OSINT 👁️](#-OSINT)
     - [getcontact-telegram-bot](#getcontact-telegram-bot) - GetContact as TG bot
-  - [4 Fun](#-4-fun)
+  - [4 Fun 🤡](#-4-fun)
     - [gaybot](#gaybot) - G-words counter
-  - [Donations](#-donations)
+  - [Donations 💸](#-donations)
     - [8M Bot](#8m-bot) - Collecting money by group
 
 ----
@@ -17,6 +17,7 @@
 <div align="center">
 <img src="./.pic/getcontact.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
 </div>
+
 ----
 
 ## [↑](#-categories-and-bots) 4 Fun
@@ -24,6 +25,7 @@
 <div align="center">
 <img src="./.pic/gay.png" alt="example-screenshot" style="float: left;" />
 </div>
+
 ----
 
 ## [↑](#-categories-and-bots) Donations
