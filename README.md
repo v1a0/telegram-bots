@@ -4,11 +4,11 @@
 ## 📖 Categories and Bots
 
   - [OSINT](#-OSINT)
-    - [getcontact-telegram-bot](#-getcontact-telegram-bot)
+    - [getcontact-telegram-bot](#getcontact-telegram-bot)
   - [4 Fun](#-4-fun)
-    - [gaybot](#-gaybot)
+    - [gaybot](#gaybot)
   - [Donations](#-donations)
-    - [8M Bot](#-8mbot)
+    - [8M Bot](#8mbot)
 
 ## [↑](#-categories-and-bots) OSINT
 ### [getcontact-telegram-bot](https://github.com/v1a0/getcontact-telegram-bot)
