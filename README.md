@@ -15,8 +15,11 @@ Collection of my Telegram bots
    
  - ### [OSINT](#osint)
    - [Getcontact-telegram-bot](#getcontact-telegram-bot) - Based on GetContact, osint search, UPD(2021): banhammered :(
- 
- - ### [Fun](#fun)
+
+ - ### [Templates](#templates)
+     - [Aiogram bot template](#aiogram-bot-template) - Template repo with prepared structure for aiogram projects
+
+- ### [Fun](#fun)
    - [Gaybot](#gaybot) - Giving users gay coins for using abnormative vocabulary / daily shipping / other
 
  - ### [Donations](#donations)
@@ -63,6 +66,18 @@ Based on GetContact, osint search, UPD(2021): banhammered :(
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/getcontact.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
+</div>
+
+----
+
+## Template
+
+### [Aiogram bot template](https://github.com/v1a0/aiogram-bot-template)
+
+Template repo with prepared structure for aiogram projects
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/aiogram-template.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
 </div>
 
 ----
