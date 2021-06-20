@@ -59,7 +59,7 @@ Based on GetContact, osint search, UPD(2021): banhammered :(
 
 ## Fun
 
-### [Gaybot](https://github.com/v1a0/gaybot-telegram-bot)
+### [Gaybot](https://github.com/v1a0/telegram-gaybot)
 
 Giving users gay coins for using abnormative vocabulary / daily shipping / other
 
