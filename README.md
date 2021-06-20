@@ -9,8 +9,9 @@ Collection of my Telegram bots
    - [Telegram-notify-workflow](#telegram-notify-workflow) - Sending notifications to chats about new releases / pr (soon) and other actions in github repo
 
  - ### [Automate Telegram](#automate-telegram)
-   - [Media Scraping Channel Bot](#media-scraping-channel-bot) - Scrapping media content from all input messages and creating posts for a channel from it, auto-posting
-   - [Telegram-notify-workflow](#telegram-notify-workflow) - notifications for chats about new releases / pr (soon) and other
+   - [Media Scraping Channel Bot](#media-scraping-channel-bot) - Scrapping media content from all input messages and creating posts for a channel from it, auto-posting.
+   - [Telegram-notify-workflow](#telegram-notify-workflow) - Notifications for chats about new releases / pr (soon) and other.
+   - [Crypto Currency "Miner"](#crypto-currency-miner) - Bot to "mining" Doge-coin by viewing ad.
    
  - ### [OSINT](#osint)
    - [Getcontact-telegram-bot](#getcontact-telegram-bot) - Based on GetContact, osint search, UPD(2021): banhammered :(
@@ -43,11 +44,20 @@ Scrapping media content from all input messages and creating posts for a channel
 <img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-media-scraper-1.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
 </div>
 
+
+### [Crypto Currency "Miner"](https://github.com/v1a0/telegram-ccminer-bot)
+
+Bot to "mining" Doge-coin by viewing ad 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/ccminer-bot.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
+</div>
+
 ----
 
 ## OSINT
 
-### [Getcontact-telegram-bot](https://github.com/v1a0/getcontact-telegram-bot)
+### [Getcontact-telegram-bot](https://github.com/v1a0/telegram-getcontact-bot)
 
 Based on GetContact, osint search, UPD(2021): banhammered :(
 
@@ -71,7 +81,7 @@ Giving users gay coins for using abnormative vocabulary / daily shipping / other
 
 ## Donations
 
-### [8M-Bot](https://github.com/v1a0/8m-telegram-bot)
+### [8M-Bot](https://github.com/v1a0/telegram-8m-bot)
 
 Donations list (manual control)
 
@@ -80,5 +90,3 @@ Donations list (manual control)
 </div>
 
 
-## License
-[GNU GENERAL PUBLIC LICENSE](./LICENSE)
