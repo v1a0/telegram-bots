@@ -29,14 +29,14 @@ Collection of my Telegram bots
 ### [Telegram-notify-workflow](https://github.com/v1a0/telegram-notify-workflow)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-media-scraper-1" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
+<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-notify-workflow-1.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
 </div>
 
 
 ### [Media Scraping Channel Bot](https://github.com/v1a0/telegram-media-scraper)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-notify-workflow-1.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
+<img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-media-scraper-1.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
 </div>
 
 ----
