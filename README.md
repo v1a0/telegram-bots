@@ -6,11 +6,11 @@ Collection of my Telegram bots
 ## Categories
 
  - ### [Github workflows](#github-workflow)
-   - [Telegram-notify-workflow](#telegram-notify-workflow) - Sending notifications to chats about new releases / pr (soon) and other actions in github repo
+   - [Telegram-notify-workflow](#telegram-notify-workflow) - Sending notifications to chats about new releases / pr / pushes and other actions in github repo
 
  - ### [Automate Telegram](#automate-telegram)
    - [Media Scraping Channel Bot](#media-scraping-channel-bot) - Scrapping media content from all input messages and creating posts for a channel from it, auto-posting.
-   - [Telegram-notify-workflow](#telegram-notify-workflow) - Notifications for chats about new releases / pr (soon) and other.
+   - [Telegram-notify-workflow](#telegram-notify-workflow) - Notifications for chats about new releases / pr / pushes and other.
    - [Crypto Currency "Miner"](#crypto-currency-miner) - Bot to "mining" Doge-coin by viewing ad.
    
  - ### [OSINT](#osint)
@@ -32,7 +32,7 @@ Collection of my Telegram bots
 
 ### [Telegram-notify-workflow](https://github.com/v1a0/telegram-notify-workflow)
 
-Sending notifications to chats about new releases / pr (soon) and other actions in github repo
+Sending notifications to chats about new releases / pr / pushes and other actions in github repo
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/v1a0/imgs/main/telegram-bots/telegram-notify-workflow-1.png" alt="example-screenshot" style="width:500px; position: relative; float: left; margin-right: 40px; margin-bottom: 90px; margin-top: 30px;"/>
